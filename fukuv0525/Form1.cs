@@ -28,7 +28,7 @@ namespace fukuv0525
             label1.Top = label1.Top + 15;
         }
 
-   
+
 
         private void label1_Click_1(object sender, EventArgs e)
         {
